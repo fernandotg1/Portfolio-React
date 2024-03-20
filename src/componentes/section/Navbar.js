@@ -13,7 +13,7 @@ function Navbar() {
 
             <ul>
                 <li><a href='https://github.com/fernandotg1'><FaGithub size={30} /></a></li>
-                <li><a href='www.linkedin.com/in/fernando-tabor-gonçalves-72777466'><FaLinkedin size={30} /></a></li>
+                <li><a href='https://www.linkedin.com/in/fernando-tabor-gonçalves-72777466'><FaLinkedin size={30} /></a></li>
             </ul>
         </div>
     )
