@@ -41,6 +41,7 @@ function Projects() {
 
 
             <ButtonA link='https://github.com/fernandotg1?tab=repositories' text='Ver repositório completo' />
+            <br />
         </div>
     )
 } export default Projects

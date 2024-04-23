@@ -25,3 +25,13 @@
 .skill p {
     font-size: 20px;
 }
+
+@media only screen and (max-width: 600px) {
+    .skill {
+        width: 90%;
+        margin: auto;
+    }
+    .skill img {
+        height:30px;
+    }
+}
